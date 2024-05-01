@@ -1,4 +1,5 @@
-# memscal
+# [memscal](https://github.com/lafefspietz/memscal)
+
 Open-source MEMS-based calibration system for quantum microwave metrology
 
 # 3d Printed parts
