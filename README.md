@@ -4,7 +4,13 @@ Open-source MEMS-based calibration system for quantum microwave metrology
 
 # 3d Printed parts
 
+## Thread Inserts
+
 [![images/4-40-inserts.png](images/4-40-inserts.png)](https://www.3djake.com/ruthex/threaded-insert-4-40-unc-100-pieces)
+
+## 4-40 quarter inch screws
+
+[![images/4-40-0.25-screw.png](images/4-40-0.25-screw.png)](https://www.mcmaster.com/90272A106/)
 
 ## Arduino Bracket
 
@@ -29,3 +35,23 @@ Use 4-40 brass thread inserts, press them in with a soldering iron. Attach to wo
 place in center area of circuit board to prevent bowing, use #4 wood screws to mount.
 
 [![front-panel-center-bracket.STL](https://raw.githubusercontent.com/lafefspietz/memscal/main/images/front-panel-center-bracket.PNG)](https://github.com/lafefspietz/memscal/blob/main/3dprint/front-panel-center-bracket.STL) 
+
+# Front Panel Wood Board Assembly
+
+## Board: 1/2 inch by 4 inches by 19 inches, cut from 24 inches
+
+[![images/white-oak-board.png](images/white-oak-board.png)](https://ocoochhardwoods.com/detail/?i=124wo)
+
+## Wood screws
+
+
+
+
+
+
+
+
+
+
+
+
