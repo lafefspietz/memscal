@@ -4,6 +4,8 @@ Open-source MEMS-based calibration system for quantum microwave metrology
 
 # 3d Printed parts
 
+[![images/4-40-inserts.png](images/4-40-inserts.png)](https://www.3djake.com/ruthex/threaded-insert-4-40-unc-100-pieces)
+
 ## Arduino Bracket
 
 Use 4-40 brass thread inserts, press them in with a soldering iron
