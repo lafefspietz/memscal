@@ -2,6 +2,23 @@
 
 Open-source MEMS-based calibration system for quantum microwave metrology
 
+## To do:
+
+ - add dimensioned drawings to brackets in this document
+ - add dimensioned drawing of Arduino UNO with all the holes
+ - add all the Altium files and screen shots including schematics, and bills of materials
+ - add all the gerber files with information about orders from pcbway
+ - add links to all the data sheets
+ - build a front panel for the 6 port switches using frontpanel express
+ - write and test the code for the six port switch, get more information on that from Logan and Jordan
+ - figure out how to add the dc connectors myself without getting those sent out
+ - test every single pin
+ - rewrite code for 8 port switch and test it
+ - build an 8 port front panel
+
+![](images/qrcode.png)
+![](images/qrcode-page.png)
+
 # 3d Printed parts
 
 ## Thread Inserts
