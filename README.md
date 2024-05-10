@@ -14,7 +14,16 @@ Open-source MEMS-based calibration system for quantum microwave metrology
  - figure out how to add the dc connectors myself without getting those sent out
  - test every single pin
  - rewrite code for 8 port switch and test it
- - build an 8 port front panel
+ - build an 8 port front panel 
+ - look into larger wood screws or different heads so they don't strip as easily
+ - add buttons, lights, resistors to this document
+ - add capacitors to this document
+ - add headers to this document
+ - add arduino code to this document(6 pole, 9 pole, 8 pole)
+ - add python control code to this document
+ - add matlab control code to this document
+ - add links to Hamdi's switches, links to Eval kit boards, description of the 8 poirt
+
 
 ![](images/qrcode.png)
 ![](images/qrcode-page.png)
@@ -61,6 +70,16 @@ place in center area of circuit board to prevent bowing, use #4 wood screws to m
 
 ## Wood screws
 
+
+
+## 5V to 12V boost
+
+[![](images/5v-12v-boost-amazon.png)](https://www.amazon.com/Voltage-Converter-Vintage-Indicator-80V-380V/dp/B09D93QNYK/ref=pd_vtp_h_pd_vtp_h_d_sccl_3/135-2213394-8928934)
+
+## 12 V to 90 V boost
+
+
+[![](images/HV-boost-amazon.png)](https://www.amazon.com/DROK-Boost-Converter-Regulator-Length/dp/B09M3LMSS3/)
 
 
 
