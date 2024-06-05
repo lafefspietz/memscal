@@ -2,6 +2,33 @@
 
 Open-source MEMS-based calibration system for quantum microwave metrology
 
+# System Elements
+
+ - rack mount controller
+ 	- wood panel
+ 	- button and light control board
+ 	- aluminum enclosure
+ 	- DB25 board
+ 	- arduino shield
+ 	- arduino code
+ 	- arduino UNO
+ 	- 3d printed parts
+ 	- DC DC converters
+ - cold assembly
+ 	- h bracket
+ 	- standoff
+ 	- outside bracket
+ 	- center bracket
+ 	- hex standoffs
+ 	- rectangle 11 board
+ 	- microD breakout board
+
+# Rack Mount Controller
+
+## Wood Panel
+
+
+
 ## To do:
 
  - add dimensioned drawings to brackets in this document
