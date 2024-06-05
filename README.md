@@ -27,7 +27,17 @@ Open-source MEMS-based calibration system for quantum microwave metrology
 
 ## Wood Panel
 
+Buy a 24 inch long by 4 inch wide 1/2 inch thick white oak board:
 
+[![](https://raw.githubusercontent.com/lafefspietz/memscal/main/images/white-oak-board.png)](https://ocoochhardwoods.com/scroll-saw-lumber/WhiteOak/ 
+)
+
+[![](https://raw.githubusercontent.com/lafefspietz/memscal/main/images/wood-selection.PNG)](https://ocoochhardwoods.com/scroll-saw-lumber/WhiteOak/ 
+)
+
+Cut it down to 19 inches, and sand off rough edges of saw cut.
+
+Drill loose #10 cleara
 
 ## To do:
 
