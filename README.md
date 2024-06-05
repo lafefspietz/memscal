@@ -37,7 +37,7 @@ Buy a 24 inch long by 4 inch wide 1/2 inch thick white oak board:
 
 Cut it down to 19 inches, and sand off rough edges of saw cut.
 
-Drill loose #10 cleara
+Drill loose #10 clearance holes in from edges 
 
 ## To do:
 
