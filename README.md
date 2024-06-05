@@ -25,6 +25,8 @@ Open-source MEMS-based calibration system for quantum microwave metrology
 
 # Rack Mount Controller
 
+![](https://raw.githubusercontent.com/lafefspietz/memscal/main/images/front-panel-photo.PNG)
+
 ## Wood Panel
 
 Buy a 24 inch long by 4 inch wide 1/2 inch thick white oak board:
@@ -37,7 +39,7 @@ Buy a 24 inch long by 4 inch wide 1/2 inch thick white oak board:
 
 Cut it down to 19 inches, and sand off rough edges of saw cut.
 
-Drill loose #10 clearance holes in from edges 
+Drill loose #10 clearance holes in from edges 5/16" in from edge and up and down from center by 1.5 inches.
 
 ## To do:
 
