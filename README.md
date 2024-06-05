@@ -1,3 +1,7 @@
+
+![](images/qrcode.png)
+![](images/qrcode-page.png)
+
 # [memscal](https://github.com/lafefspietz/memscal)
 
 Open-source MEMS-based calibration system for quantum microwave metrology
@@ -64,8 +68,7 @@ Drill loose #10 clearance holes in from edges 5/16" in from edge and up and down
  - add links to Hamdi's switches, links to Eval kit boards, description of the 8 poirt
 
 
-![](images/qrcode.png)
-![](images/qrcode-page.png)
+
 
 # 3d Printed parts
 
